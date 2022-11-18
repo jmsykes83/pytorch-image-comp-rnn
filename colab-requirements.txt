@@ -1,0 +1,6 @@
+matplotlib==2.2.2
+pyparsing==2.2.2
+scipy @ https://files.pythonhosted.org/packages/40/de/0c22c6754370ba6b1fa8e53bd6e514d4a41a181125d405a501c215cbdbd6/scipy-1.1.0-cp37-cp37m-manylinux1_x86_64.whl 
+tensorflow==1.14.0
+torch @ https://download.pytorch.org/whl/cu92/torch-0.4.1.post2-cp37-cp37m-linux_x86_64.whl
+torchvision==0.2.1
